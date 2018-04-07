@@ -1,0 +1,14 @@
+# PixelgamesEconomySell Config:
+
+
+# Verkaufsbestätigung durch zweimaliges Tippen
+enable-double-tap: true
+
+# Bei jeder Änderung im Verkaufsstand automatisch Daten speichern
+auto-save: true
+
+# Datenprovider für Verkaufsstände (yaml)
+data-provider: yaml
+
+# Spracheinstellung (en, ch, jp, ko, uk)
+lang: en

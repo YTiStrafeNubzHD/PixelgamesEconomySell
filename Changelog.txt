@@ -1,30 +1,30 @@
 Changelog PixelgamesEconomySell:
 
-v0.1-release: Plugin released ohne Änderung und ohne resources-Daten, Changelog hinzugefügt (INSTABIL?)
-v0.1.1-alpha: resources-Daten hinzugefügt, lang_de statt lang_en für die Sprache (INSTABIL?)
-v0.1.2-alpha: Spracheinstellungen wieder geändert auf en (INSTABIL?)
-v0.1.3-alpha: andere Language-Dateien hinzugefügt, genau gleich gemacht wie auf GitHub (languages) (INSTABIL?)
+v0.1-release: Plugin released ohne Ã„nderung und ohne resources-Daten, Changelog hinzugefÃ¼gt (INSTABIL?)
+v0.1.1-alpha: resources-Daten hinzugefÃ¼gt, lang_de statt lang_en fÃ¼r die Sprache (INSTABIL?)
+v0.1.2-alpha: Spracheinstellungen wieder geÃ¤ndert auf en (INSTABIL?)
+v0.1.3-alpha: andere Language-Dateien hinzugefÃ¼gt, genau gleich gemacht wie auf GitHub (languages) (INSTABIL?)
 v0.1.4-alpha: Language-System komplett aus der Main raus (Test) (INSTABIL?)
 v0.1.5-alpha: Language-Funktion bei onEnable entfernt (INSTABIL?)
-v0.2: alle Messages eingefügt fürs Output, kleinere Fehlerkorrekturen am Text
-v0.2.1-beta: in Main etwas geändert zur Behebung des falschen Outputs von Codes (Test) (INSTABIL?)
-v0.2.2-beta: mögliche Fehlerbehebung? (INSTABIL?)
-v0.2.3-beta: mögliche Fehlerbehebung (INSTABIL?)
-v0.2.4-beta: Fehlerbehebung durch Rückgängigmachung (INSTABIL?)
+v0.2: alle Messages eingefÃ¼gt fÃ¼rs Output, kleinere Fehlerkorrekturen am Text
+v0.2.1-beta: in Main etwas geÃ¤ndert zur Behebung des falschen Outputs von Codes (Test) (INSTABIL?)
+v0.2.2-beta: mÃ¶gliche Fehlerbehebung? (INSTABIL?)
+v0.2.3-beta: mÃ¶gliche Fehlerbehebung (INSTABIL?)
+v0.2.4-beta: Fehlerbehebung durch RÃ¼ckgÃ¤ngigmachung (INSTABIL?)
 v0.3: Alle Textoutputs verbessert bzw. gefixt (hoffentlich)
-v0.4: möglicher Fix vom PlayerInteract/Join-Event und Outputs durch hinzufügen von Vector3 in ItemDisplayer.php
-v0.5: möglicher Fix der falschen Code-Ausgabe im Output
-v0.6: Übersetzung der Config
+v0.4: mÃ¶glicher Fix vom PlayerInteract/Join-Event und Outputs durch hinzufÃ¼gen von Vector3 in ItemDisplayer.php
+v0.5: mÃ¶glicher Fix der falschen Code-Ausgabe im Output
+v0.6: Ãœbersetzung der Config
 v0.7: Verbesserung des Config-Textes
-v1.0#: Komplette Übersetzung, Überarbeitung von plugin.yml mit permissions, /sell list entfernt da keine Funktion
+v1.0#: Komplette Ãœbersetzung, Ãœberarbeitung von plugin.yml mit permissions, /sell list entfernt da keine Funktion
 v1.1#: Fehlerbehebung bei Default-Permissions
-v1.2#: kleine Änderungen: Farben im Output, ItemID statt Item in Benutzungshinweis
-v1.3#: Farbenänderung, Fehlerbehebung in Benutzungshinweis, Help und Info in Benutzungshinweis
+v1.2#: kleine Ã„nderungen: Farben im Output, ItemID statt Item in Benutzungshinweis
+v1.3#: FarbenÃ¤nderung, Fehlerbehebung in Benutzungshinweis, Help und Info in Benutzungshinweis
 v1.4#: Fehlerbehebung in Benutzungshinweis, sonstige Verbesserungen
-v2.0#: Messages bei onLoad, onEnable und onDisable hinzugefügt, Help und Info hinzugefügt, Fehlerbehebungen
-v2.1#: Ausrichtungsoption jetzt nur bei Angabe, bei keiner Angabe kein ItemDisplay da es ItemCase gibt..., Vnr. i. I.
-v2.1.1#: Fehlerbehebung, da /sell c nicht mehr funktioniert, Versionsnummer in Info
-v2.1.2#: winzige Fehlerbehebung im Changelog, Versionsnummer in Info
+v2.0#: Messages bei onLoad, onEnable und onDisable hinzugefÃ¼gt, Help und Info hinzugefÃ¼gt, Fehlerbehebungen
+v2.1#: Ausrichtungsoption jetzt nur bei Angabe, bei keiner Angabe kein ItemDisplay da es ItemCase gibt...
+v2.1.1#: Fehlerbehebung, da /sell c nicht mehr funktioniert
+v2.1.2#: winzige Fehlerbehebung im Changelog
 v2.2#: Allgemeines API-Update auf 3.0.0-ALPHA9
 v2.2.1#: Fehler in Info korrigiert: PocketMine statt Pocketmine
 v2.3#: Allgemeines API-Update auf 3.0.0-ALPHA10

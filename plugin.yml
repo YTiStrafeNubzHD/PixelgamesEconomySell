@@ -1,6 +1,6 @@
 name: PixelgamesEconomySell
-version: 2.4#
-api: [3.0.0-ALPHA11]
+version: 2.5#
+api: [3.0.0-ALPHA12]
 main: Authors\PixelgamesEconomySell\PixelgamesEconomySell
 author: onebone, iStrafeNubzHDyt
 depend: [EconomyAPI]

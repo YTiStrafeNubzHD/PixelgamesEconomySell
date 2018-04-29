@@ -1,7 +1,6 @@
 [![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesEconomySell.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/PixelgamesEconomySell)
 
 # PixelgamesEconomySell
-
 A modified EconomySell plugin for PocketMine-MP
 
 # Please do not use PixelgamesEconomySell for your server.

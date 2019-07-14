@@ -50,7 +50,7 @@ class ItemDisplayer{
     } 
     
     public function spawnTo(Player $player){
-        $pk = new AddItemEntityPacket;
+        $pk = new AddItemActorPacket;
         $pk->entityRuntimeId = $this->eid;
         $pk->item = $this->item;
         $position = new Vector3($this->pos->x + 0.5, $this->pos->y, $this->pos->z + 0.5);

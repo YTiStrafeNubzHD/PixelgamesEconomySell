@@ -24,7 +24,7 @@ use pocketmine\entity\Entity;
 use pocketmine\item\Item;
 use pocketmine\level\Level;
 use pocketmine\level\Position;
-use pocketmine\network\mcpe\protocol\AddItemEntityPacket;
+use pocketmine\network\mcpe\protocol\AddItemActorPacket;
 use pocketmine\network\mcpe\protocol\RemoveEntityPacket;
 use pocketmine\Player;
 use pocketmine\Server;
